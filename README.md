@@ -1,6 +1,6 @@
 # CIRA-Diffusion
 main contact: Randy Chase 
-email: randy 'dot' chase 'at' colostate.edu
+email: dopplerchase12 'at' gmail.com
 
 ## Introduction 
 
